@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 int arr[2];//declaring an array
 int rear=-1,front=0;
